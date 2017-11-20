@@ -11,4 +11,4 @@
  * 應日3A     0432003   吳柏賢
  * 機械4C     0514302   朱志林
  
-# 【第一科大】(http://www.nkfust.edu.tw/bin/home.php)
+# {第一科大}http://www.nkfust.edu.tw/bin/home.php)
