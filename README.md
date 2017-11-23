@@ -14,3 +14,5 @@
 # [第一科大](http://www.nkfust.edu.tw/bin/home.php)
 
 ![NKFUST](123.jpg "第一科大")
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
