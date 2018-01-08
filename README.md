@@ -44,6 +44,7 @@
 * local backgroundMusic = audio.loadStream( "JP.mp3" ) 
 * audio.play(backgroundMusic ,{ channel=1, loops=-1 })   
 * audio.setVolume( 0.8 , {channel=1})  --背景音樂 0.8代表音量
+## [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)
     * 
 * local ground1 = display.newImage( "ground1.jpg")
 * ground1.x = display.contentCenterX-250 
@@ -60,9 +61,9 @@
 * Elseif Total1 = 10 or Total2=10 then
 * gameState ="Gameover" restartGame(gameState) end end -----計分 
 * 機械 3A 0414040 楊燿銘 】
-## [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)
+
  
 # [第一科大](http://www.nkfust.edu.tw/bin/home.php)
 
-![NKFUST](111.png "第一科大")
+![NKFUST](1111.png)
 
