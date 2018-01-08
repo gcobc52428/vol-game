@@ -42,6 +42,7 @@
 * local backgroundMusic = audio.loadStream( "JP.mp3" )   
 * audio.play(backgroundMusic,{ channel=1, loops=-1 })   
 * audio.setVolume( 0.8 , {channel=1})  -背景音樂
+*
 * # [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)  : 
 * local ground1 = display.newImage( "ground1.jpg")
 * ground1.x = display.contentCenterX-250 
