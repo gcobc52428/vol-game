@@ -39,9 +39,9 @@
 * ball.x = display.contentCenterX -200 
 * ball.y = display.contentCenterY +100 --球的圖片     
 *
-* local backgroundMusic = audio.loadStream( "JP.mp3" ) 
-* audio .play(backgroundMusic ,{ channel=1, loops=-1 })   
-* audio .setVolume( 0.8 , {channel=1})  --背景音樂
+*local backgroundMusic = audio.loadStream( "JP.mp3" ) 
+*audio .play(backgroundMusic ,{ channel=1, loops=-1 })   
+*audio .setVolume( 0.8 , {channel=1})  --背景音樂
 *
     
 * local ground1 = display.newImage( "ground1.jpg")
