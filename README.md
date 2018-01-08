@@ -5,7 +5,7 @@
 ## 專題題目: 排球小遊戲
 
 ## 小組成員與工作分配:
- * 機械3A     0414040   楊燿銘  部分程式與圖片、報告、github 操作 
+ * 機械3A     0414040   楊燿銘   部分程式與圖片、報告、github 操作 
  * 機械2D     0572045   簡榮皓  期中報告
  * 資管3A     0424049   許可証  報告站旁邊
  * 應日3A     0432003   吳柏賢  部分程式
@@ -60,7 +60,7 @@
 * Elseif Total1 = 10 or Total2=10 then
 * gameState ="Gameover" restartGame(gameState) end end -----計分 
 * 機械 3A 0414040 楊燿銘 】
-# [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)
+## [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)
  
 # [第一科大](http://www.nkfust.edu.tw/bin/home.php)
 
