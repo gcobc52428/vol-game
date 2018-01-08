@@ -20,15 +20,14 @@
  
  
  ## 程式 :
-* 【
-* function dragPaddle(e)  if(e.phase == "began") then--板子的初始位置 
+* 【function dragPaddle(e)  if(e.phase == "began") then--板子的初始位置 
  *  lastX = e.x - paddle.x--板子只有左右移動,只改變 x 值 
   * elseif(e.phase == "moved") then--板子移動中的位置 
 *  paddle.x = e.x – lastX end end  --角色操作 
- * 】
- * 應日 3A 0432003 吳柏賢 
- * 【
-* local background = display.newImage( "back.jpg")
+ 
+ * 應日 3A 0432003 吳柏賢 】
+ *
+* 【local background = display.newImage( "back.jpg")
 * background.x = display.contentCenterX
 * background.y = display.contentCenterY  --背景       
 *
@@ -43,7 +42,7 @@
  * local backgroundMusic = audio.loadStream( "JP.mp3" )   
  * audio.play(backgroundMusic,{ channel=1, loops=-1 })   
  * audio.setVolume( 0.8 , {channel=1})  -背景音樂
- # [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)  
+ # [預計背景音樂] (https://www.youtube.com/watch?v=owC66LIBObg)   
  *
 * local ground1 = display.newImage( "ground1.jpg")
 * ground1.x = display.contentCenterX-250 
@@ -59,8 +58,7 @@
 * Total2 = Total2 + 1 ScoreText2 = Total2
 * Elseif Total1 = 10 or Total2=10 then
 * gameState ="Gameover" restartGame(gameState) end end -----計分 
-* 】
-* 機械 3A 0414040 楊燿銘
+* 機械 3A 0414040 楊燿銘 】
  
 # [第一科大](http://www.nkfust.edu.tw/bin/home.php)
 
