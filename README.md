@@ -37,7 +37,7 @@
 *
 * local ball = display.newImage( "pole.jpg") 
 * ball.x = display.contentCenterX -200 
-* ball.y = display.contentCenterY +100 --球的圖片    
+* ball.y = display.contentCenterY +100 --球的圖片     
 *
 * local backgroundMusic = audio.loadStream( "JP.mp3" )   
 * audio.play(backgroundMusic,{ channel=1, loops=-1 })   
